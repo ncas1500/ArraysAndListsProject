@@ -49,18 +49,6 @@ namespace ArraysAndLists
                 }
             }
 
-            foreach(var num in numbers)
-            {
-                if(num % 2 == 0)
-                {
-
-                    evens.Add(num);
-                }
-                else
-                {
-                    odds.Add(num);
-                }
-            }
 
 
             /* Using a foreach loop,
